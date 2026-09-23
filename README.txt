@@ -1,4 +1,4 @@
-GREYHAVEN CAMPAIGN WIKI v2.2
+GREYHAVEN CAMPAIGN WIKI v2.3
 Dark Medieval / Post-Apocalyptic Archive Theme
 
 CONTENTS
@@ -20,7 +20,8 @@ Settings > Pages to publish from your chosen branch and root folder.
 CHANGES
 Charcoal stone backgrounds, warm ivory text, bronze borders and links,
 dark archive cards and infoboxes, muted crimson and lore accents.
-The original article data, hyperlinks, navigation, and search JavaScript
-are unchanged. Responsive layouts are retained, with a wrapping header
+Sessions 2–6 now contain four-paragraph recaps adapted from the prior session summaries,
+with corrected party names and links to related articles. Other articles, navigation,
+and search behavior are unchanged. Responsive layouts are retained, with a wrapping header
 for narrow screens. No remote fonts, images, libraries, or assets are required.
-The footer version is updated to 2.2.
+The footer version is updated to 2.3.
